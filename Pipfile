@@ -14,6 +14,7 @@ mypy = "*"
 django = "*"
 django-filter = "*"
 djangorestframework = "*"
+django-environ = "*"
 
 [requires]
 python_version = "3.8"
