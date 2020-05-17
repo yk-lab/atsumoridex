@@ -15,6 +15,7 @@ django = "*"
 django-filter = "*"
 djangorestframework = "*"
 django-environ = "*"
+werkzeug = "*"
 
 [requires]
 python_version = "3.8"
